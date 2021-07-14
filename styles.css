@@ -17,8 +17,8 @@ body {
    /* background-color: var(--Dark-cyan); */
    margin: 0;
    padding: 0;
-   background: url("./images/bg-pattern-top.svg"),
-      url("./images/bg-pattern-bottom.svg"), var(--Dark-cyan);
+   background: url("images/bg-pattern-top.svg"),
+      url("images/bg-pattern-bottom.svg"), var(--Dark-cyan);
    background-repeat: no-repeat;
 
    background-position: right calc(50vw + 1%) bottom calc(45vh + 10%),
